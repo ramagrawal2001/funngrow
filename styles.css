@@ -1,0 +1,41 @@
+body {
+	font-family: Arial, sans-serif;
+	text-align: center;
+	background-color: #f2f2f2;
+  }
+  
+  .container {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 50px 0;
+  }
+  
+  .heading {
+	font-size: 48px;
+	margin-bottom: 20px;
+	color: #005a9c;
+  }
+  
+  .stats {
+	font-size: 24px;
+	margin-bottom: 50px;
+	color: #333;
+  }
+  
+  .highlight {
+	color: #f04d23;
+  }
+  
+  .cta-button {
+	font-size: 24px;
+	padding: 16px 40px;
+	color: #fff;
+	background-color: #f04d23;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+  }
+  
+  .cta-button:hover {
+	background-color: #da3a16;
+  }
